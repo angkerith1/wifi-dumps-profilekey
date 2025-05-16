@@ -21,7 +21,7 @@ A professional tool to extract saved WiFi profiles and passwords on Windows syst
 ## 📦 Installation
 
 ### Option 1: Download Pre-built EXE
-1. Download the latest release from [Releases page](https://github.com/yourusername/wifi-profile-extractor/releases)
+1. Download the latest release from [Releases page](https://github.com/angkerith1/wifi-dumps-profilekey/releases)
 2. Run `WiFiProfileExtractor.exe` (right-click → "Run as administrator")
 
 ### Option 2: Build from Source
